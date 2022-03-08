@@ -1,5 +1,3 @@
-const companyView = () => {
-	return <div>companyView</div>;
-};
+const companyView = () => <div>companyView</div>;
 
 export default companyView;
