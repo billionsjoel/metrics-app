@@ -7,4 +7,3 @@ const reducer = combineReducers({ companyReducer });
 
 const store = createStore(reducer, applyMiddleware(thunk, logger));
 
-export default store;
