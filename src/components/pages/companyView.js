@@ -1,5 +1,5 @@
-function companyView() {
-  return <div>companyView</div>;
-}
+const companyView = () => {
+	return <div>companyView</div>;
+};
 
 export default companyView;
