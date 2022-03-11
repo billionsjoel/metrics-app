@@ -26,6 +26,10 @@ The API that provides numeric data about a topic that i like and then build the 
 
 - Not yet available.
 
+### Video Demo
+
+- Click [here](https://www.loom.com/share/f3a4a9bf8a03476abba66b2d9c8f8d68) for vide demo.
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
