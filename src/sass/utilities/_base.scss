@@ -1,40 +1,39 @@
 
-
 *,
 ::after,
 ::before {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-	max-width: 500px;
-	color: $secondary;
-	font-family: 'poppins', sans-serif;
-	overflow: scroll;
-	text-align: center;
-	margin: auto;
+  max-width: 500px;
+  color: $secondary;
+  font-family: 'poppins', sans-serif;
+  overflow: scroll;
+  text-align: center;
+  margin: auto;
 }
 
 .bold {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 .d-flex {
-	display: flex;
-	justify-content: center;
-	align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .col {
-	flex-direction: column;
+  flex-direction: column;
 }
 
 .pointer {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 .center {
-	text-align: center;
+  text-align: center;
 }
