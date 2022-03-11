@@ -1,44 +1,82 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Available Scripts
+# COVID-19 STATISTICS App.
 
-In the project directory, you can run:
+> Working with the real live data from the corona Nativa API. Building a mobile web application to check a list of metrics (numeric values) making use of React and Redux.
+The app lists live data for covid 19 from ohns Hopkins University.
 
-### `npm start`
+The API that provides numeric data about a topic that i like and then build the webapp around it.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# HOME PAGE
+![screenshot](./app-screenshot.png)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+# SINGLE COUNTRY DETAILS
+![screenshot](./app-screenshot1.png)
 
-### `npm test`
+## Built Wit
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- HTML, SCSS and Js (ES6).
+- Using React Framework
+- Webpack
+- Git, Github and VsCode.
+- Redux for state management
+- Jest and react-testing-library
 
-### `npm run build`
+### Live Demo link
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Click [here](https://covid-metrics-app.herokuapp.com/) for live demo link.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Video Demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Click [here](https://www.loom.com/share/42cd43e93f294f82b14e4cc964e8fb66) for vide demo.
 
-### `npm run eject`
+## Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+To get a local copy up and running follow these simple example steps.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- A modern upto-date browser
+- Text Editor or IDE
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Setup
 
-## Learn More
+1.  Clone the Repo or Download the Zip file or `https://github.com/billionsjoel/metrics-app.git`.
+2.  `cd/metrics-app`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+After cloning the project you need to run these commands
+
+- `npm install` `This command will download all the dependancies of the project`
+- `npm run start`
+
+## Authors
+
+👤 ** Atugonza Billions joel **
+
+- GitHub: [@billionsjoel](https://github.com/billionsjoel)
+- Twitter: [@billionsjoel](https://twitter.com/BillionsJoel)
+- LinkedIn: [billionsjoel](https://www.linkedin.com/in/billionsjoel/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/billionsjoel/metrics-app/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+- Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29). Under the [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
