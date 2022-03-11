@@ -22,9 +22,9 @@ The API that provides numeric data about a topic that i like and then build the 
 - Redux for state management
 - Jest and react-testing-library
 
-### Live Demo
+### Live Demo link
 
-- Not yet available.
+- Click [here](https://covid-metrics-app.herokuapp.com/) for live demo link.
 
 ### Video Demo
 
