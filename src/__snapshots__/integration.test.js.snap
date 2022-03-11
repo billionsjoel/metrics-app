@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests components checks for a single country component 1`] = `
+<DocumentFragment>
+  <div
+    class="selfCountries d-flex col"
+  >
+    <div
+      class="countryContainer d-flex col"
+    >
+      <div
+        class="title center bold d-flex"
+      >
+        <p>
+          uganda
+        </p>
+      </div>
+      <div
+        class="date d-flex"
+      >
+        <p
+          class="bold"
+        >
+          Date:
+        </p>
+        <p>
+          23/23/32
+        </p>
+      </div>
+      <div
+        class="country-stats"
+      >
+        <div
+          class="d-flex"
+        >
+          <p
+            class="bold"
+          >
+            Total Comfirmed Cases:
+          </p>
+          <p>
+            121
+          </p>
+        </div>
+        <div
+          class="d-flex"
+        >
+          <p
+            class="bold"
+          >
+            Total Deaths:
+          </p>
+          <p>
+            12
+          </p>
+        </div>
+        <div
+          class="d-flex"
+        >
+          <p
+            class="bold"
+          >
+            Comfirmed New Cases:
+          </p>
+          <p>
+            232
+          </p>
+        </div>
+        <div
+          class="d-flex"
+        >
+          <p
+            class="bold"
+          >
+            Deaths Today:
+          </p>
+          <p>
+            12
+          </p>
+        </div>
+        <div
+          aria-hidden="true"
+          class="source d-flex col"
+        >
+          <p>
+            Source: Johns Hopkins University.
+          </p>
+          <p>
+            API by Narrativa technology from the Data API.
+          </p>
+          <p>
+            Made with ♥️ by
+            <br />
+            <span>
+              <a
+                class="credits"
+                href="https://github.com/billionsjoel"
+              >
+                Billions A Joel
+              </a>
+            </span>
+          </p>
+        </div>
+      </div>
+      <div
+        class="backButton"
+      >
+        <i
+          aria-hidden="true"
+          class="bi bi-arrow-left-circle pointer"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
